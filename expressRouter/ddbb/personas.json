@@ -1,0 +1,26 @@
+{
+    "titulo": "Listado de personas",
+    "personas": [
+        {
+            "id": 1,
+            "nombre": "Edy",
+            "edad": 30,
+            "userName": "edy30",
+            "pass": "1234"
+        },
+        {
+            "id": 2,
+            "nombre": "Edy2",
+            "edad": 32,
+            "userName": "edy32",
+            "pass": "1234"
+        },
+        {
+            "id": 3,
+            "nombre": "Edy3",
+            "edad": 33,
+            "userName": "edy33",
+            "pass": "1234"
+        }
+    ]
+}
